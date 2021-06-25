@@ -17,9 +17,15 @@ banner()
 {
   printf "`tput bold` %-40s `tput sgr0`\n" "$@"
   echo
-  echo -e "\e[32m============================================\e[m "
-  echo -e "\e[31m    [\e[32m★\e[31m]\e[93m WEBSITE : techsmit12.blogspot.com \e[31m [\e[32m★\e[31m]\e[m "
-  echo -e "\e[32m============================================\e[m "
+  echo -e "\e[32m===================================================================================\e[m "
+  echo -e "\e[31m[\e[32m★\e[31m]\e[93m WEBSITE : techsmit12.blogspot.com \e[31m [\e[32m★\e[31m]\e[m "
+  echo -e "\e[31m[\e[32m★\e[31m]\e[93m          PROJECT: TECNO     \e[31m [\e[32m★\e[31m]\e[m "             
+  echo -e "\e[31m[\e[32m★\e[31m]\e[93m          AUTHOR: Smitraj                 \e[31m [\e[32m★\e[31m]\e[m "
+  echo -e "\e[31m[\e[32m★\e[31m]\e[93m            Tecno ©2021          \e[31m [\e[32m★\e[31m]\e[m "          
+  echo -e "\e[31m[\e[32m★\e[31m]\e[93m  EMAIL: parulraj021@gmail.com     \e[31m [\e[32m★\e[31m]\e[m "        
+  echo -e "\e[31m[\e[32m★\e[31m]\e[93m        BEST PHISHING TOOLS      \e[31m [\e[32m★\e[31m]\e[m "         
+  echo -e "\e[31m[\e[32m★\e[31m]\e[93m          CREDIT: TecnoDevloper \e[31m [\e[32m★\e[31m]\e[m "
+  echo -e "\e[32m===================================================================================\e[m "
 }
 
 banner "
@@ -228,9 +234,15 @@ banner()
 {
   printf "`tput bold` %-40s `tput sgr0`\n" "$@"
   echo
-  echo -e "\e[32m============================================\e[m "
-  echo -e "\e[31m    [\e[32m★\e[31m]\e[93m WEBSITE : techsmit12.blogspot.com \e[31m [\e[32m★\e[31m]\e[m "
-  echo -e "\e[32m============================================\e[m "
+  echo -e "\e[32m===================================================================================\e[m "
+  echo -e "\e[31m[\e[32m★\e[31m]\e[93m WEBSITE : techsmit12.blogspot.com \e[31m [\e[32m★\e[31m]\e[m "
+  echo -e "\e[31m[\e[32m★\e[31m]\e[93m          PROJECT: TECNO     \e[31m [\e[32m★\e[31m]\e[m "             
+  echo -e "\e[31m[\e[32m★\e[31m]\e[93m          AUTHOR: Smitraj                 \e[31m [\e[32m★\e[31m]\e[m "
+  echo -e "\e[31m[\e[32m★\e[31m]\e[93m            Tecno ©2021          \e[31m [\e[32m★\e[31m]\e[m "          
+  echo -e "\e[31m[\e[32m★\e[31m]\e[93m  EMAIL: parulraj021@gmail.com     \e[31m [\e[32m★\e[31m]\e[m "        
+  echo -e "\e[31m[\e[32m★\e[31m]\e[93m        BEST PHISHING TOOLS      \e[31m [\e[32m★\e[31m]\e[m "         
+  echo -e "\e[31m[\e[32m★\e[31m]\e[93m          CREDIT: TecnoDevloper \e[31m [\e[32m★\e[31m]\e[m "
+  echo -e "\e[32m===================================================================================\e[m "
 }
 
 banner "
