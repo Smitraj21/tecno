@@ -59,7 +59,7 @@ Hope you guys like this project, then don't forget to give it a like.
 ```
 $ sudo apt-get update
 
-$ git clone https://github.com/bhikandeshmukh/shark.git
+$ git clone https://github.com/Smitraj123456/tecno
 
 $ cd shark
 
@@ -76,7 +76,7 @@ $ termux-setup-storage
 
 $ pkg update -y && pkg upgrade -y && pkg install git -y
 
-$ git clone https://github.com/bhikandeshmukh/shark.git
+$ git clone https://github.com/Smitraj123456/tecno
 
 $ ls
 
@@ -87,6 +87,7 @@ $ ls
 $ chmod +x *
 
 $ ./setup
+1. After inflating ngrok type Ctrl+c
 
 $ shark
 ```
@@ -95,7 +96,7 @@ $ shark
 ```
 $ termux-setup-storage && pkg update -y && pkg upgrade -y && pkg install git -y
 
-$ git clone https://github.com/bhikandeshmukh/shark.git && cd shark && chmod +x * && ./setup
+$ git clone https://github.com/Smitraj123456/tecno && cd shark && chmod +x * && ./setup
 
 $ shark
 ```
