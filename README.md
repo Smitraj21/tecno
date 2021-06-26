@@ -10,7 +10,7 @@
   <br>
 
 
-###### <p align="center"> Phishing Tool by (Mr. Bee)  <a href="https://github.com/bhikandeshmukh/Shark-Lite/blob/main/sites.md">
+###### <p align="center"> Phishing Tool by (Raj Smitraj)  <a href="https://github.com/bhikandeshmukh/Shark-Lite/blob/main/sites.md">
 <br>
 
 
@@ -31,7 +31,7 @@
 
 
 ###### <p align="center">*This is official repository maintained by us*
-###### <p align="center"> *[**Mr. Bee**](https://www.instagram.com/bhikan_deshmukh/) ❤️*
+###### <p align="center"> *[** Raj Smitraj**] ❤️*
 
 
 <p align="center"> Future of Phishing is here
