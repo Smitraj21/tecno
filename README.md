@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64035221/92106331-df7b5000-ee01-11ea-9f16-c0a62a027b27.jpg">
+  <img src="https://user-images.githubusercontent.com/73018278/123502282-d85f5000-d668-11eb-8ef2-cd437ef5f13e.png">
 </p>
 
 
@@ -53,7 +53,7 @@ Hope you guys like this project, then don't forget to give it a like.
 • **Android** (Using the Termux App {Hackers Keyboard Recommended}) <br>
 
 
-### Installation of Shark :-
+### Installation of Tecno :-
 
 ### * `Commands` for ( Linux, MacOS ) :-
 ```
